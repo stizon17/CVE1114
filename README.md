@@ -2,6 +2,8 @@
 
 This project is part of a university module aimed at applying Python programming to solve problems in the field of surveying. The course focuses on leveraging Python's powerful data analysis, mathematical, and visualization libraries to assist in surveying and geospatial data processing.
 
+This was my first time programming and using Python. Give chance.
+
 ## Overview
 
 The primary objective of this project is to develop practical programming skills that can be applied to surveying tasks. The use of Python allows for automation of repetitive tasks, analysis of geospatial data, and creation of accurate models and maps. This project demonstrates how Python can be used to process, analyze, and visualize survey data efficiently, providing valuable insights for decision-making in civil engineering, construction, and environmental projects.
