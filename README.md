@@ -2,7 +2,7 @@
 
 This project is part of a university module aimed at applying Python programming to solve problems in the field of surveying. The course focuses on leveraging Python's powerful data analysis, mathematical, and visualization libraries to assist in surveying and geospatial data processing.
 
-This was my first time programming and using Python. Give chance.
+This was my first time programming and using Python. Give chance as it can be definitely improved :")
 
 ## Overview
 
